@@ -8,7 +8,7 @@ int main()
 	cout<<"|  4580247   | English                  |     92     |   B   |  \n";
 	cout<<"|  4570034   | Desjest Thinking         |     85     |   A   |  \n\n";	
 	cout<<"|   TOTAL    | Subject = 3              |  Average = 3.87  |";	
-
+	return(0);
 
 
 
